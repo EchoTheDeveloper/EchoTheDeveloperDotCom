@@ -12,9 +12,10 @@
    ========================================================================== */
 
 html {
-  color: #222;
+  color: #ffffff;
   font-size: 1em;
   line-height: 1.4;
+  background-color: #474747;
 }
 
 /*
@@ -25,12 +26,12 @@ html {
  */
 
 ::-moz-selection {
-  background: #b3d4fc;
+  background: #585858;
   text-shadow: none;
 }
 
 ::selection {
-  background: #b3d4fc;
+  background: #494949;
   text-shadow: none;
 }
 
